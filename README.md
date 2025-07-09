@@ -9,10 +9,6 @@ A simple static coffee shop website built with **React** and **Vite**. This proj
 - Easy to customize layout and styles
 - Static and deployable anywhere (Netlify, Vercel, GitHub Pages, etc.)
 
-## 🖼️ Preview
-
-![Screenshot](./screenshot.png) <!-- Optional: Add a screenshot of your project -->
-
 ## 🛠️ Getting Started
 
 ### Prerequisites
