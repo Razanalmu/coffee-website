@@ -1,6 +1,6 @@
 # ☕ Coffee Website
 
-A simple static coffee shop website built with **React** and **Vite**. This project serves as a front-end example of a stylish, responsive landing page for a coffee shop or café.
+A simple static coffee shop website built with **React** and **Vite**. It uses the MaterialUI design pattern. This project serves as a front-end example of a stylish, responsive landing page for a coffee shop or café.
 
 ## 🚀 Features
 
